@@ -1,0 +1,6 @@
+{
+  "name": "Shooter Man",
+  "description": "A web-based roguelike shooter game with upgrades, weapons, and enemies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
